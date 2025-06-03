@@ -1,0 +1,15 @@
+C:\Users\oleks\Documents\PracticeC-Sharp\Lb3\obj\Debug\net9.0\Lb3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oleks\Documents\PracticeC-Sharp\Lb3\obj\Debug\net9.0\Lb3.AssemblyInfoInputs.cache
+C:\Users\oleks\Documents\PracticeC-Sharp\Lb3\obj\Debug\net9.0\Lb3.AssemblyInfo.cs
+C:\Users\oleks\Documents\PracticeC-Sharp\Lb3\obj\Debug\net9.0\Lb3.csproj.CoreCompileInputs.cache
+C:\Users\oleks\Documents\PracticeC-Sharp\Lb3\obj\Debug\net9.0\Lb3.sourcelink.json
+C:\Users\oleks\Documents\PracticeC-Sharp\Lb3\bin\Debug\net9.0\Lb3.exe
+C:\Users\oleks\Documents\PracticeC-Sharp\Lb3\bin\Debug\net9.0\Lb3.deps.json
+C:\Users\oleks\Documents\PracticeC-Sharp\Lb3\bin\Debug\net9.0\Lb3.runtimeconfig.json
+C:\Users\oleks\Documents\PracticeC-Sharp\Lb3\bin\Debug\net9.0\Lb3.dll
+C:\Users\oleks\Documents\PracticeC-Sharp\Lb3\bin\Debug\net9.0\Lb3.pdb
+C:\Users\oleks\Documents\PracticeC-Sharp\Lb3\obj\Debug\net9.0\Lb3.dll
+C:\Users\oleks\Documents\PracticeC-Sharp\Lb3\obj\Debug\net9.0\refint\Lb3.dll
+C:\Users\oleks\Documents\PracticeC-Sharp\Lb3\obj\Debug\net9.0\Lb3.pdb
+C:\Users\oleks\Documents\PracticeC-Sharp\Lb3\obj\Debug\net9.0\Lb3.genruntimeconfig.cache
+C:\Users\oleks\Documents\PracticeC-Sharp\Lb3\obj\Debug\net9.0\ref\Lb3.dll
