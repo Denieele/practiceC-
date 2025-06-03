@@ -1,0 +1,15 @@
+C:\Users\oleks\Documents\PracticeC-Sharp\Lb2\Lab2\obj\Debug\net9.0\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oleks\Documents\PracticeC-Sharp\Lb2\Lab2\obj\Debug\net9.0\Lab2.AssemblyInfoInputs.cache
+C:\Users\oleks\Documents\PracticeC-Sharp\Lb2\Lab2\obj\Debug\net9.0\Lab2.AssemblyInfo.cs
+C:\Users\oleks\Documents\PracticeC-Sharp\Lb2\Lab2\obj\Debug\net9.0\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\oleks\Documents\PracticeC-Sharp\Lb2\Lab2\obj\Debug\net9.0\Lab2.sourcelink.json
+C:\Users\oleks\Documents\PracticeC-Sharp\Lb2\Lab2\bin\Debug\net9.0\Lab2.exe
+C:\Users\oleks\Documents\PracticeC-Sharp\Lb2\Lab2\bin\Debug\net9.0\Lab2.deps.json
+C:\Users\oleks\Documents\PracticeC-Sharp\Lb2\Lab2\bin\Debug\net9.0\Lab2.runtimeconfig.json
+C:\Users\oleks\Documents\PracticeC-Sharp\Lb2\Lab2\bin\Debug\net9.0\Lab2.dll
+C:\Users\oleks\Documents\PracticeC-Sharp\Lb2\Lab2\bin\Debug\net9.0\Lab2.pdb
+C:\Users\oleks\Documents\PracticeC-Sharp\Lb2\Lab2\obj\Debug\net9.0\Lab2.dll
+C:\Users\oleks\Documents\PracticeC-Sharp\Lb2\Lab2\obj\Debug\net9.0\refint\Lab2.dll
+C:\Users\oleks\Documents\PracticeC-Sharp\Lb2\Lab2\obj\Debug\net9.0\Lab2.pdb
+C:\Users\oleks\Documents\PracticeC-Sharp\Lb2\Lab2\obj\Debug\net9.0\Lab2.genruntimeconfig.cache
+C:\Users\oleks\Documents\PracticeC-Sharp\Lb2\Lab2\obj\Debug\net9.0\ref\Lab2.dll
