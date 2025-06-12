@@ -1,0 +1,14 @@
+C:\Users\Danik\Desktop\Lab3_Interface_Polymorphism\bin\Debug\net6.0\Lab3_Interface_Polymorphism.exe
+C:\Users\Danik\Desktop\Lab3_Interface_Polymorphism\bin\Debug\net6.0\Lab3_Interface_Polymorphism.deps.json
+C:\Users\Danik\Desktop\Lab3_Interface_Polymorphism\bin\Debug\net6.0\Lab3_Interface_Polymorphism.runtimeconfig.json
+C:\Users\Danik\Desktop\Lab3_Interface_Polymorphism\bin\Debug\net6.0\Lab3_Interface_Polymorphism.dll
+C:\Users\Danik\Desktop\Lab3_Interface_Polymorphism\bin\Debug\net6.0\Lab3_Interface_Polymorphism.pdb
+C:\Users\Danik\Desktop\Lab3_Interface_Polymorphism\obj\Debug\net6.0\Lab3_Interface_Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danik\Desktop\Lab3_Interface_Polymorphism\obj\Debug\net6.0\Lab3_Interface_Polymorphism.AssemblyInfoInputs.cache
+C:\Users\Danik\Desktop\Lab3_Interface_Polymorphism\obj\Debug\net6.0\Lab3_Interface_Polymorphism.AssemblyInfo.cs
+C:\Users\Danik\Desktop\Lab3_Interface_Polymorphism\obj\Debug\net6.0\Lab3_Interface_Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\Danik\Desktop\Lab3_Interface_Polymorphism\obj\Debug\net6.0\Lab3_Interface_Polymorphism.dll
+C:\Users\Danik\Desktop\Lab3_Interface_Polymorphism\obj\Debug\net6.0\refint\Lab3_Interface_Polymorphism.dll
+C:\Users\Danik\Desktop\Lab3_Interface_Polymorphism\obj\Debug\net6.0\Lab3_Interface_Polymorphism.pdb
+C:\Users\Danik\Desktop\Lab3_Interface_Polymorphism\obj\Debug\net6.0\Lab3_Interface_Polymorphism.genruntimeconfig.cache
+C:\Users\Danik\Desktop\Lab3_Interface_Polymorphism\obj\Debug\net6.0\ref\Lab3_Interface_Polymorphism.dll
