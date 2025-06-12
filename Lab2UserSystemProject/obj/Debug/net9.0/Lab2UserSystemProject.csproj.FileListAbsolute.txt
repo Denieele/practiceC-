@@ -1,0 +1,14 @@
+C:\Users\Danik\Desktop\Lab2UserSystemProject\bin\Debug\net9.0\Lab2UserSystemProject.exe
+C:\Users\Danik\Desktop\Lab2UserSystemProject\bin\Debug\net9.0\Lab2UserSystemProject.deps.json
+C:\Users\Danik\Desktop\Lab2UserSystemProject\bin\Debug\net9.0\Lab2UserSystemProject.runtimeconfig.json
+C:\Users\Danik\Desktop\Lab2UserSystemProject\bin\Debug\net9.0\Lab2UserSystemProject.dll
+C:\Users\Danik\Desktop\Lab2UserSystemProject\bin\Debug\net9.0\Lab2UserSystemProject.pdb
+C:\Users\Danik\Desktop\Lab2UserSystemProject\obj\Debug\net9.0\Lab2UserSystemProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danik\Desktop\Lab2UserSystemProject\obj\Debug\net9.0\Lab2UserSystemProject.AssemblyInfoInputs.cache
+C:\Users\Danik\Desktop\Lab2UserSystemProject\obj\Debug\net9.0\Lab2UserSystemProject.AssemblyInfo.cs
+C:\Users\Danik\Desktop\Lab2UserSystemProject\obj\Debug\net9.0\Lab2UserSystemProject.csproj.CoreCompileInputs.cache
+C:\Users\Danik\Desktop\Lab2UserSystemProject\obj\Debug\net9.0\Lab2UserSystemProject.dll
+C:\Users\Danik\Desktop\Lab2UserSystemProject\obj\Debug\net9.0\refint\Lab2UserSystemProject.dll
+C:\Users\Danik\Desktop\Lab2UserSystemProject\obj\Debug\net9.0\Lab2UserSystemProject.pdb
+C:\Users\Danik\Desktop\Lab2UserSystemProject\obj\Debug\net9.0\Lab2UserSystemProject.genruntimeconfig.cache
+C:\Users\Danik\Desktop\Lab2UserSystemProject\obj\Debug\net9.0\ref\Lab2UserSystemProject.dll
